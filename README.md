@@ -2,10 +2,8 @@
 - 👀 I’m interested in skidding
 - 🌱 I’m currently learning java and python
 - 😋 Just a skidder
-- 📫 QQ:2628573435
-     Discord:Aomuran#4297
-     Twitter:@Nan.南山
-     AeroLite.tk
+- 📫 Discord:Aomuran#4297
+- 🪩 Nostos.xin
 
 <!---
 Aomuran/Aomuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
