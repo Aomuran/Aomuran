@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and python
 - 😋 Just a skidder
 - 📫 Discord:Aomuran#4297
-- 🪩 Nostos.xin
+- 🔗 Nostos.xin
 
 <!---
 Aomuran/Aomuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
